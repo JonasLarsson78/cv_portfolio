@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "show": true,
+      "title": "Active Log",
+      "description": "Logar min träning och visar statistik över tid.<br/><b>Användarnamn:</b> demo, <b>Lösenord:</b> password.",
+      "link": "https://active-log.vercel.app/",
+      "github": "https://github.com/JonasLarsson78/active_log",
+      "img": "/proj/active_log.png"
+    },
+    {
+      "show": true,
+      "title": "Deal or No Deal",
+      "description": "En digital version av det klassiska TV-spelet där spelaren väljer en låda och försöker vinna så mycket pengar som möjligt.",
+      "link": "https://deal-or-no-deal-se.vercel.app/",
+      "github": "https://github.com/JonasLarsson78/deal_or_no_deal",
+      "img": "/proj/deal_or_no_deal.png"
+    },
+    {
+      "show": true,
+      "title": "Jonas CV",
+      "description": "Min personliga CV-webbplats som visar mina färdigheter, erfarenheter och projekt.",
+      "link": "https://www.mincv.nu/",
+      "github": "https://github.com/JonasLarsson78/cv_v2",
+      "img": "/proj/cv.png"
+    },
+    {
+      "show": false,
+      "title": "Project 4",
+      "description": "Description of project 4.",
+      "link": "https://example.com/project4",
+      "github": "https://github.com/example/project4",
+      "img": "https://example.com/project4-image.jpg"
+    },
+    {
+      "show": false,
+      "title": "Project 5",
+      "description": "Description of project 5.",
+      "link": "https://example.com/project5",
+      "github": "https://github.com/example/project5",
+      "img": "https://example.com/project5-image.jpg"
+    }
+  ]
+}

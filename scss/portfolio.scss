@@ -1,0 +1,57 @@
+.project-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+
+.project-card img {
+  width: 100%;
+  max-width: 300px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  background: #222;
+}
+.project-card pre {
+  background: #222;
+  color: #fff;
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-size: 0.95em;
+  margin: 1em 0;
+}
+
+.project-card code {
+  background: #333;
+  color: #ffeb3b;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: 'Fira Mono', 'Consolas', 'Menlo', monospace;
+}
+$primary-color: #3498db;
+
+.project-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 2rem;
+  row-gap: 4rem;
+  margin-bottom: 2rem;
+}
+// Example SCSS file for portfolio styling
+$primary-color: #3498db;
+
+.portfolio-title {
+  color: $primary-color;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.project-card {
+  border: 1px solid $primary-color;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
