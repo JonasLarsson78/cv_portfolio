@@ -7,7 +7,7 @@
       "link": "https://active-log.vercel.app/",
       "github": "https://github.com/JonasLarsson78/active_log",
       "img": "/proj/active_log.png",
-      "sort": 2
+      "sort": 3
     },
     {
       "show": true,
@@ -16,7 +16,7 @@
       "link": "https://deal-or-no-deal-se.vercel.app/",
       "github": "https://github.com/JonasLarsson78/deal_or_no_deal",
       "img": "/proj/deal_or_no_deal.png",
-      "sort": 4
+      "sort": 5
     },
     {
       "show": true,
@@ -25,7 +25,7 @@
       "link": "https://www.mincv.nu/",
       "github": "https://github.com/JonasLarsson78/cv_v2",
       "img": "/proj/cv.png",
-      "sort": 3
+      "sort": 4
     },
     {
       "show": true,
@@ -37,13 +37,13 @@
       "sort": 1
     },
     {
-      "show": false,
-      "title": "Project 5",
-      "description": "Description of project 5.",
-      "link": "https://example.com/project5",
-      "github": "https://github.com/example/project5",
-      "img": "https://example.com/project5-image.jpg",
-      "sort": 5
+      "show": true,
+      "title": "Larmet",
+      "description": "Visar Polisens larm och händelser i en sökbar lista och kartvy för snabb överblick av aktuella incidenter.",
+      "link": "https://larmet.vercel.app",
+      "github": "https://github.com/JonasLarsson78/larmet",
+      "img": "/proj/larmet.png",
+      "sort": 2
     }
   ]
 }
