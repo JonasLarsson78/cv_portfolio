@@ -31,7 +31,6 @@
   border-radius: 4px;
   font-family: 'Fira Mono', 'Consolas', 'Menlo', monospace;
 }
-$primary-color: #3498db;
 
 .project-list {
   display: grid;
@@ -40,17 +39,15 @@ $primary-color: #3498db;
   row-gap: 4rem;
   margin-bottom: 2rem;
 }
-// Example SCSS file for portfolio styling
-$primary-color: #3498db;
 
 .portfolio-title {
-  color: $primary-color;
+  color: var(--primary-color);
   font-size: 2rem;
   margin-bottom: 1rem;
 }
 
 .project-card {
-  border: 1px solid $primary-color;
+  border: 1px solid var(--primary-color);
   padding: 1rem;
   border-radius: 8px;
   margin-bottom: 1rem;
