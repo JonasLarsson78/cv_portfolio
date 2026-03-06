@@ -44,6 +44,15 @@
       "github": "https://github.com/JonasLarsson78/larmet",
       "img": "/proj/larmet.png",
       "sort": 2
+    },
+    {
+      "show": true,
+      "title": "JobbFinder",
+      "description": "En liten Svelte/Vite-app för att söka jobb via ett separat API (AF + LinkedIn) <a href='https://jobbfinder-api.vercel.app' target='_blank'>JobbFinder API</a>.",
+      "link": "https://jobbfinder.vercel.app",
+      "github": "https://github.com/JonasLarsson78/jobbfinder",
+      "img": "/proj/jobbfinder.png",
+      "sort": 1.5
     }
   ]
 }
