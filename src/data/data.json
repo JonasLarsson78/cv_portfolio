@@ -34,7 +34,7 @@
       "link": "https://mysql-lite-edit.vercel.app",
       "github": "https://github.com/JonasLarsson78/mysql_lite_edit",
       "img": "/proj/mysql.png",
-      "sort": 1
+      "sort": 1.1
     },
     {
       "show": true,
@@ -53,6 +53,15 @@
       "github": "https://github.com/JonasLarsson78/jobbfinder",
       "img": "/proj/jobbfinder.png",
       "sort": 1.5
+    },
+    {
+      "show": true,
+      "title": "Väderkollen",
+      "description": "En liten Nuxt-app för att kolla vädret som använder ett separat API <a href='https://weather-api-all.vercel.app' target='_blank'>Väderkollen API</a>. Funkar både på desktop och mobil.",
+      "link": "https://vaderkollen-se.vercel.app",
+      "github": "https://github.com/JonasLarsson78/weather-app",
+      "img": "/proj/vaderkollen.png",
+      "sort": 1
     }
   ]
 }
